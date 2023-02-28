@@ -1,0 +1,13 @@
+"D:\JetBrains\Clion Setup\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/JetBrains/Clion Setup/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\C++ -B E:\C++\cmake-build-debug
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    Start/HelloWord.cpp
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: C__
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
